@@ -235,6 +235,7 @@
     .landing .container .landing-title h1 {
         font-size: 60px;
         color: var(--main-color-section3);
+        overflow: hidden;
     }
     
     .landing .container .landing-title h1 .mini-tit {
@@ -258,6 +259,7 @@
         -moz-transition: var(--main-transation);
         -ms-transition: var(--main-transation);
         -o-transition: var(--main-transation);
+        overflow: hidden;
     }
     
     .landing .container .info .contact-bottom a {
